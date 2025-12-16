@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 612 776.71">
+  <!-- Generator: Adobe Illustrator 30.1.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 136)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3 {
+        fill: none;
+      }
+
+      .st4 {
+        fill: #696c73;
+      }
+
+      .st4, .st5, .st6, .st7, .st8, .st9 {
+        font-family: LucidaGrande, 'Lucida Grande';
+      }
+
+      .st4, .st5, .st6, .st8, .st10, .st9 {
+        font-size: 10px;
+      }
+
+      .st5 {
+        fill: #949ea2;
+      }
+
+      .st1 {
+        stroke: #fff;
+      }
+
+      .st1, .st2 {
+        stroke-miterlimit: 10;
+      }
+
+      .st2 {
+        stroke: #fa31ba;
+        stroke-width: .5px;
+      }
+
+      .st6, .st11 {
+        fill: #000a12;
+      }
+
+      .st12 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 12px;
+      }
+
+      .st13 {
+        isolation: isolate;
+      }
+
+      .st7 {
+        font-size: 8px;
+      }
+
+      .st7, .st9, .st14 {
+        fill: #fa31ba;
+      }
+
+      .st15 {
+        clip-path: url(#clippath-17);
+      }
+
+      .st16 {
+        clip-path: url(#clippath-19);
+      }
+
+      .st17 {
+        clip-path: url(#clippath-11);
+      }
+
+      .st18 {
+        clip-path: url(#clippath-16);
+      }
+
+      .st19 {
+        clip-path: url(#clippath-18);
+      }
+
+      .st20 {
+        clip-path: url(#clippath-10);
+      }
+
+      .st21 {
+        clip-path: url(#clippath-15);
+      }
+
+      .st22 {
+        clip-path: url(#clippath-13);
+      }
+
+      .st23 {
+        clip-path: url(#clippath-14);
+      }
+
+      .st24 {
+        clip-path: url(#clippath-12);
+      }
+
+      .st25 {
+        clip-path: url(#clippath-50);
+      }
+
+      .st26 {
+        clip-path: url(#clippath-55);
+      }
+
+      .st27 {
+        clip-path: url(#clippath-52);
+      }
+
+      .st28 {
+        clip-path: url(#clippath-54);
+      }
+
+      .st29 {
+        clip-path: url(#clippath-53);
+      }
+
+      .st30 {
+        clip-path: url(#clippath-51);
+      }
+
+      .st31 {
+        clip-path: url(#clippath-31);
+      }
+
+      .st32 {
+        clip-path: url(#clippath-32);
+      }
+
+      .st33 {
+        clip-path: url(#clippath-33);
+      }
+
+      .st34 {
+        clip-path: url(#clippath-34);
+      }
+
+      .st35 {
+        clip-path: url(#clippath-35);
+      }
+
+      .st36 {
+        clip-path: url(#clippath-39);
+      }
+
+      .st37 {
+        clip-path: url(#clippath-30);
+      }
+
+      .st38 {
+        clip-path: url(#clippath-36);
+      }
+
+      .st39 {
+        clip-path: url(#clippath-37);
+      }
+
+      .st40 {
+        clip-path: url(#clippath-38);
+      }
+
+      .st41 {
+        clip-path: url(#clippath-27);
+      }
+
+      .st42 {
+        clip-path: url(#clippath-29);
+      }
+
+      .st43 {
+        clip-path: url(#clippath-26);
+      }
+
+      .st44 {
+        clip-path: url(#clippath-28);
+      }
+
+      .st45 {
+        clip-path: url(#clippath-20);
+      }
+
+      .st46 {
+        clip-path: url(#clippath-21);
+      }
+
+      .st47 {
+        clip-path: url(#clippath-22);
+      }
+
+      .st48 {
+        clip-path: url(#clippath-23);
+      }
+
+      .st49 {
+        clip-path: url(#clippath-24);
+      }
+
+      .st50 {
+        clip-path: url(#clippath-25);
+      }
+
+      .st51 {
+        clip-path: url(#clippath-41);
+      }
+
+      .st52 {
+        clip-path: url(#clippath-42);
+      }
+
+      .st53 {
+        clip-path: url(#clippath-43);
+      }
+
+      .st54 {
+        clip-path: url(#clippath-44);
+      }
+
+      .st55 {
+        clip-path: url(#clippath-45);
+      }
+
+      .st56 {
+        clip-path: url(#clippath-49);
+      }
+
+      .st57 {
+        clip-path: url(#clippath-40);
+      }
+
+      .st58 {
+        clip-path: url(#clippath-46);
+      }
+
+      .st59 {
+        clip-path: url(#clippath-47);
+      }
+
+      .st60 {
+        clip-path: url(#clippath-48);
+      }
+
+      .st61 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st62 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st63 {
+        clip-path: url(#clippath-4);
+      }
+
+      .st64 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st65 {
+        clip-path: url(#clippath-7);
+      }
+
+      .st66 {
+        clip-path: url(#clippath-6);
+      }
+
+      .st67 {
+        clip-path: url(#clippath-9);
+      }
+
+      .st68 {
+        clip-path: url(#clippath-8);
+      }
+
+      .st69 {
+        clip-path: url(#clippath-5);
+      }
+
+      .st8, .st70 {
+        fill: #1f1f1f;
+      }
+
+      .st10 {
+        fill: #fa5e66;
+        font-family: Helvetica, Helvetica;
+      }
+
+      .st71 {
+        fill: #fff;
+      }
+
+      .st3 {
+        clip-rule: evenodd;
+      }
+
+      .st72 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" width="612" height="776.71"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <path class="st3" d="M40.84,40.88c-2.44,0-4.42,1.96-4.42,4.39s1.94,4.43,4.4,4.43,4.4-1.98,4.4-4.41-1.94-4.41-4.38-4.41ZM117.08,40.88c-2.44,0-4.42,1.96-4.42,4.39s1.94,4.43,4.4,4.43,4.4-1.98,4.4-4.41-1.94-4.41-4.38-4.41ZM62.75,41.16c-.97,0-1.87.38-2.5,1.1-.84.97-.86,1.9-.86,3.1v4.41h6.61v-4.51c0-.88-.02-1.75-.48-2.52-.57-.99-1.64-1.58-2.76-1.58ZM76.75,41.19c-2.5,0-4.46,1.9-4.46,4.41s2.02,4.37,4.49,4.37,4.36-2.01,4.36-4.43-1.96-4.35-4.38-4.35ZM40.87,39.51c3.14,0,5.75,2.57,5.75,5.7s-2.55,5.86-5.79,5.86-5.79-2.59-5.79-5.76,2.61-5.8,5.83-5.8ZM51.09,39.51c1.03,0,1.96.36,2.5,1.23v-1.04h1.14v2.81h-1.14c-.02-.57-.29-1.03-.72-1.35-.42-.31-.97-.5-1.56-.5-1.12,0-2.17.68-2.17,1.88,0,1.39,1.33,1.73,2.44,1.96.86.17,1.75.36,2.51.82.88.51,1.37,1.41,1.37,2.43,0,.72-.23,1.23-.48,1.71-.53,1.01-1.94,1.63-3.22,1.63s-2.4-.49-3.07-1.63v1.33h-1.14v-3.16h1.14c.12,1.35,1.32,2.34,2.82,2.34,1.22,0,2.4-.82,2.4-2.11,0-1.52-1.31-1.8-2.53-2.05-.86-.19-1.73-.36-2.49-.82-.82-.53-1.3-1.37-1.3-2.34,0-.76.15-1.35.57-1.9.65-.85,1.89-1.23,2.93-1.23ZM117.11,39.51c3.14,0,5.75,2.57,5.75,5.7s-2.55,5.87-5.79,5.87-5.79-2.6-5.79-5.76,2.61-5.8,5.84-5.8ZM130.72,39.81c1.24,0,3.09.68,3.81,2.13.27.55.61,1.54.61,2.89v4.94h1.86v1.31h-5.1v-1.31h1.85v-4.68c0-.9-.06-1.77-.53-2.56-.59-1.03-1.83-1.35-2.88-1.35-.97,0-1.96.42-2.59,1.16-.72.84-.74,1.8-.74,2.83v4.6h1.85v1.31h-5.1v-1.31h1.85v-8.46h-1.85v-1.31h3.24v1.94c.7-1.37,2.19-2.13,3.71-2.13ZM72.36,36v6.46c.9-1.65,2.5-2.66,4.38-2.66,3.22,0,5.79,2.58,5.79,5.8,0,1.2-.42,2.34-.93,3.16-.78,1.29-2.66,2.6-4.7,2.6-1.9,0-3.6-.93-4.55-2.6v1h0v1.31h-16.22v-1.31h1.85v-12.45h-1.85v-1.31h3.24v6.06c.74-1.39,2.06-2.26,3.66-2.26,1.32,0,2.44.55,3.31,1.56.97,1.14,1.03,2.38,1.03,3.8v4.6h1.72s1.85-.01,1.85-.01v-12.45h-1.85v-1.31h3.24ZM107.57,36.01v3.99h2.44v1.31h-2.44v8.46h2.61v1.31h-14.14s-3.26.01-3.26.01v-1.86c-.71,1.35-2.1,2.15-3.68,2.15s-3.1-1.04-3.77-2.15c-.36-.59-.57-1.42-.57-2.72v-5.19h-1.85v-1.31h3.24v6.19c0,.95.07,1.87.7,2.69.65.86,1.56,1.26,2.65,1.18,1.09-.08,1.94-.55,2.48-1.2.76-.91.8-1.71.8-2.85v-4.71h-1.85v-1.31h3.24v9.76h4.2v-8.46h-1.85v-1.31h3.24v2.26s.07-.2.07-.2c.54-1.34,1.83-1.95,3.26-2.05h.21s0,1.3,0,1.3c-2.44.21-3.54,1.65-3.54,4.01v4.45h6.42v-8.46h-2.13v-1.31h2.13v-3.99h1.39ZM33.37,39.7v10.87c0,2.53-.7,3.95-3.37,4.43v-1.33c1.83-.33,1.97-1.62,1.98-3.07v-.32c0-.11,0-.22,0-.33v-8.95h-1.85v-1.31h3.24Z"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="st0" width="612" height="1020"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="st0" x="25" y="31" width="117" height="29"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="st0" x="30" y="36" width="107" height="19"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="st0" width="612" height="1020"/>
+    </clipPath>
+    <clipPath id="clippath-6">
+      <rect class="st0" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-7">
+      <rect class="st0" x="22" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-8">
+      <rect class="st0" x="44" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="st0" x="66" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-10">
+      <rect class="st0" x="88" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-11">
+      <rect class="st0" x="110" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-12">
+      <rect class="st0" x="132" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="st0" x="154" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-14">
+      <rect class="st0" x="176" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-15">
+      <rect class="st0" x="198" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-16">
+      <rect class="st0" x="220" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-17">
+      <rect class="st0" x="242" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-18">
+      <rect class="st0" x="264" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-19">
+      <rect class="st0" x="286" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-20">
+      <rect class="st0" x="308" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-21">
+      <rect class="st0" x="330" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-22">
+      <rect class="st0" x="352" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-23">
+      <rect class="st0" x="374" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-24">
+      <rect class="st0" x="396" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-25">
+      <rect class="st0" x="418" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-26">
+      <rect class="st0" x="440" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-27">
+      <rect class="st0" x="462" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-28">
+      <rect class="st0" x="484" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-29">
+      <rect class="st0" x="506" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-30">
+      <rect class="st0" x="528" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-31">
+      <rect class="st0" x="550" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-32">
+      <rect class="st0" x="572" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-33">
+      <rect class="st0" x="594" width="22" height="22"/>
+    </clipPath>
+    <clipPath id="clippath-34">
+      <circle class="st0" cx="171" cy="323" r="2"/>
+    </clipPath>
+    <clipPath id="clippath-35">
+      <rect class="st0" width="612" height="1020"/>
+    </clipPath>
+    <clipPath id="clippath-36">
+      <rect class="st0" x="164" y="316" width="14" height="14"/>
+    </clipPath>
+    <clipPath id="clippath-37">
+      <rect class="st0" x="169" y="321" width="4" height="4"/>
+    </clipPath>
+    <clipPath id="clippath-38">
+      <circle class="st0" cx="171" cy="439" r="2"/>
+    </clipPath>
+    <clipPath id="clippath-39">
+      <rect class="st0" width="612" height="1020"/>
+    </clipPath>
+    <clipPath id="clippath-40">
+      <rect class="st0" x="164" y="432" width="14" height="14"/>
+    </clipPath>
+    <clipPath id="clippath-41">
+      <rect class="st0" x="169" y="437" width="4" height="4"/>
+    </clipPath>
+    <clipPath id="clippath-42">
+      <circle class="st0" cx="171" cy="528" r="2"/>
+    </clipPath>
+    <clipPath id="clippath-43">
+      <rect class="st0" y="-3" width="612" height="1020"/>
+    </clipPath>
+    <clipPath id="clippath-44">
+      <rect class="st0" x="164" y="521" width="14" height="14"/>
+    </clipPath>
+    <clipPath id="clippath-45">
+      <rect class="st0" x="169" y="526" width="4" height="4"/>
+    </clipPath>
+    <clipPath id="clippath-46">
+      <rect class="st0" width="612" height="1020"/>
+    </clipPath>
+    <clipPath id="clippath-47">
+      <circle class="st14" cx="171" cy="145" r="2"/>
+    </clipPath>
+    <clipPath id="clippath-48">
+      <rect class="st14" width="612" height="1020"/>
+    </clipPath>
+    <clipPath id="clippath-49">
+      <rect class="st14" x="164" y="138" width="14" height="14"/>
+    </clipPath>
+    <clipPath id="clippath-50">
+      <rect class="st14" x="169" y="143" width="4" height="4"/>
+    </clipPath>
+    <clipPath id="clippath-51">
+      <circle class="st0" cx="171" cy="234" r="2"/>
+    </clipPath>
+    <clipPath id="clippath-52">
+      <rect class="st0" width="612" height="1020"/>
+    </clipPath>
+    <clipPath id="clippath-53">
+      <rect class="st0" x="164" y="227" width="14" height="14"/>
+    </clipPath>
+    <clipPath id="clippath-54">
+      <rect class="st0" x="169" y="232" width="4" height="4"/>
+    </clipPath>
+    <clipPath id="clippath-55">
+      <rect class="st0" width="612" height="1020"/>
+    </clipPath>
+    <image id="image" width="22" height="22" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAAsSAAALEgHS3X78AAAAO0lEQVQ4jWNgYGD4z4AfEJInSzNFhuIyhCqGohtGVUPRDaeJoTQJBlx8qhhKFcNpmo5HwSgYBaNgQAAAsrAQ8NllTegAAAAASUVORK5CYII="/>
+  </defs>
+  <g class="st72">
+    <rect class="st71" x="-5" y="-3.81" width="622" height="784.33"/>
+  </g>
+  <g class="st61">
+    <g class="st64">
+      <g class="st13">
+        <g class="st62">
+          <g class="st63">
+            <rect class="st70" x="20" y="26" width="127" height="39"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st69">
+    <line class="st1" x1="71" y1="45.5" x2="140" y2="45.5"/>
+    <text class="st7" transform="translate(30 67.58)"><tspan x="0" y="0">zonkcong@gmail.com</tspan></text>
+    <g class="st66">
+      <use xlink:href="#image"/>
+    </g>
+    <g class="st65">
+      <use transform="translate(22)" xlink:href="#image"/>
+    </g>
+    <g class="st68">
+      <use transform="translate(44)" xlink:href="#image"/>
+    </g>
+    <g class="st67">
+      <use transform="translate(66)" xlink:href="#image"/>
+    </g>
+    <g class="st20">
+      <use transform="translate(88)" xlink:href="#image"/>
+    </g>
+    <g class="st17">
+      <use transform="translate(110)" xlink:href="#image"/>
+    </g>
+    <g class="st24">
+      <use transform="translate(132)" xlink:href="#image"/>
+    </g>
+    <g class="st22">
+      <use transform="translate(154)" xlink:href="#image"/>
+    </g>
+    <g class="st23">
+      <use transform="translate(176)" xlink:href="#image"/>
+    </g>
+    <g class="st21">
+      <use transform="translate(198)" xlink:href="#image"/>
+    </g>
+    <g class="st18">
+      <use transform="translate(220)" xlink:href="#image"/>
+    </g>
+    <g class="st15">
+      <use transform="translate(242)" xlink:href="#image"/>
+    </g>
+    <g class="st19">
+      <use transform="translate(264)" xlink:href="#image"/>
+    </g>
+    <g class="st16">
+      <use transform="translate(286)" xlink:href="#image"/>
+    </g>
+    <g class="st45">
+      <use transform="translate(308)" xlink:href="#image"/>
+    </g>
+    <g class="st46">
+      <use transform="translate(330)" xlink:href="#image"/>
+    </g>
+    <g class="st47">
+      <use transform="translate(352)" xlink:href="#image"/>
+    </g>
+    <g class="st48">
+      <use transform="translate(374)" xlink:href="#image"/>
+    </g>
+    <g class="st49">
+      <use transform="translate(396)" xlink:href="#image"/>
+    </g>
+    <g class="st50">
+      <use transform="translate(418)" xlink:href="#image"/>
+    </g>
+    <g class="st43">
+      <use transform="translate(440)" xlink:href="#image"/>
+    </g>
+    <g class="st41">
+      <use transform="translate(462)" xlink:href="#image"/>
+    </g>
+    <g class="st44">
+      <use transform="translate(484)" xlink:href="#image"/>
+    </g>
+    <g class="st42">
+      <use transform="translate(506)" xlink:href="#image"/>
+    </g>
+    <g class="st37">
+      <use transform="translate(528)" xlink:href="#image"/>
+    </g>
+    <g class="st31">
+      <use transform="translate(550)" xlink:href="#image"/>
+    </g>
+    <g class="st32">
+      <use transform="translate(572)" xlink:href="#image"/>
+    </g>
+    <g class="st33">
+      <use transform="translate(594)" xlink:href="#image"/>
+    </g>
+    <text class="st6" transform="translate(182 324.22)"><tspan x="0" y="0">Associate Design Director</tspan></text>
+    <text class="st4" transform="translate(182 338.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 338.22)"><tspan x="0" y="0">Led complete redesign/rebrand/vision for native</tspan></text>
+    <text class="st4" transform="translate(182 352.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 352.22)"><tspan x="0" y="0">Led creation of the nearby map experience on iOS &amp; Android</tspan></text>
+    <text class="st4" transform="translate(182 366.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 366.22)"><tspan x="0" y="0">Scaled user retention, preference and conversions +40% </tspan></text>
+    <text class="st4" transform="translate(182 380.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 380.22)"><tspan x="0" y="0">Built new processes for design/product/engineering collaboration</tspan></text>
+    <text class="st4" transform="translate(182 394.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 394.22)"><tspan x="0" y="0">Taught UI animation and advanced prototyping</tspan></text>
+    <text class="st8" transform="translate(30 324.22)"><tspan x="0" y="0">TripAdvisor</tspan></text>
+    <text class="st8" transform="translate(30 440.22)"><tspan x="0" y="0">TD Ameritrade</tspan></text>
+    <text class="st8" transform="translate(30 532.22)"><tspan x="0" y="0">JPM Chase</tspan></text>
+    <text class="st5" transform="translate(30 340.22)"><tspan x="0" y="0">2015 - 2019</tspan></text>
+    <text class="st5" transform="translate(30 456.22)"><tspan x="0" y="0">2014 - 2015</tspan></text>
+    <text class="st5" transform="translate(30 548.22)"><tspan x="0" y="0">2011 - 2014</tspan></text>
+    <text class="st9" transform="translate(30 118.22)"><tspan x="0" y="0">Experience</tspan></text>
+    <text class="st6" transform="translate(182 440.22)"><tspan x="0" y="0">Lead Designer</tspan></text>
+    <text class="st4" transform="translate(182 452.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 452.22)"><tspan x="0" y="0">Led complete iOS and Android redesigns</tspan></text>
+    <text class="st4" transform="translate(182 464.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 464.22)"><tspan x="0" y="0">Oversaw public and secure web redesigns</tspan></text>
+    <text class="st4" transform="translate(182 476.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 476.22)"><tspan x="0" y="0">Advanced prototyping in CSS, Principle and Swift</tspan></text>
+    <text class="st4" transform="translate(182 488.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 488.22)"><tspan x="0" y="0">Created online style/brand guide</tspan></text>
+    <text class="st10" transform="translate(30 632)"><tspan x="0" y="0">E</tspan></text>
+    <text class="st10" transform="translate(36.67 632)"><tspan x="0" y="0">du</tspan></text>
+    <text class="st10" transform="translate(47.8 632)"><tspan x="0" y="0">c</tspan></text>
+    <text class="st10" transform="translate(52.8 632)"><tspan x="0" y="0">a</tspan></text>
+    <text class="st10" transform="translate(58.36 632)"><tspan x="0" y="0">t</tspan></text>
+    <text class="st10" transform="translate(61.14 632)"><tspan x="0" y="0">io</tspan></text>
+    <text class="st10" transform="translate(68.92 632)"><tspan x="0" y="0">n</tspan></text>
+    <text class="st4" transform="translate(182 629.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 629.22)"><tspan x="0" y="0">Art Institute of Philadelphia - Specialized Technology </tspan></text>
+    <text class="st4" transform="translate(182 641.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 641.22)"><tspan x="0" y="0">College of Philadelphia - Photography</tspan></text>
+    <text class="st10" transform="translate(30 692)"><tspan x="0" y="0">S</tspan></text>
+    <text class="st10" transform="translate(36.67 692)"><tspan x="0" y="0">pe</tspan></text>
+    <text class="st10" transform="translate(47.8 692)"><tspan x="0" y="0">c</tspan></text>
+    <text class="st10" transform="translate(52.8 692)"><tspan x="0" y="0">ial</tspan></text>
+    <text class="st10" transform="translate(62.81 692)"><tspan x="0" y="0">t</tspan></text>
+    <text class="st10" transform="translate(65.58 692)"><tspan x="0" y="0">ie</tspan></text>
+    <text class="st10" transform="translate(73.37 692)"><tspan x="0" y="0">s</tspan></text>
+    <text class="st4" transform="translate(182 689.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 689.22)"><tspan x="0" y="0">Advanced vibe coding (Claude/Cursor/Swift/VS/DevMate)</tspan></text>
+    <text class="st4" transform="translate(182 701.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 701.22)"><tspan x="0" y="0">Expert in AI Video/Audio generation</tspan></text>
+    <text class="st4" transform="translate(182 713.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 713.22)"><tspan x="0" y="0">Building successful and award winning products from 0-1</tspan></text>
+    <text class="st4" transform="translate(182 725.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 725.22)"><tspan x="0" y="0">Design Systems, AI workflows, interactive animations</tspan></text>
+    <text class="st6" transform="translate(182 532.22)"><tspan x="0" y="0">Creative Director </tspan></text>
+    <text class="st4" transform="translate(182 544.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 544.22)"><tspan x="0" y="0">Led redesign of award-winning iOS app</tspan></text>
+    <text class="st4" transform="translate(182 556.22)"><tspan x="0" y="0">• Oversaw public and secure web redesigns</tspan></text>
+    <text class="st4" transform="translate(182 568.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 568.22)"><tspan x="0" y="0">Introduced new design/dev collaboration tools</tspan></text>
+    <text class="st4" transform="translate(182 580.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 580.22)"><tspan x="0" y="0">Created design system libraries </tspan></text>
+    <text class="st4" transform="translate(330.74 580.22)"><tspan x="0" y="0"> </tspan></text>
+    <text class="st12" transform="translate(-67.66 166.83)"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+    <text class="st12" transform="translate(-79.52 83.25)"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+  </g>
+  <g class="st34">
+    <g class="st35">
+      <g class="st13">
+        <g class="st38">
+          <g class="st39">
+            <rect class="st14" x="159" y="311" width="24" height="24"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st40">
+    <g class="st36">
+      <g class="st13">
+        <g class="st57">
+          <g class="st51">
+            <rect class="st14" x="159" y="427" width="24" height="24"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st52">
+    <g class="st53">
+      <g class="st13">
+        <g class="st54">
+          <g class="st55">
+            <rect class="st14" x="159" y="516" width="24" height="24"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st58">
+    <text class="st6" transform="translate(182 146.22)"><tspan x="0" y="0">Product Designer</tspan></text>
+    <text class="st4" transform="translate(182 160.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 160.22)"><tspan x="0" y="0">3rd founding designer on central AI team, scaling from 3 to 30+ designers</tspan></text>
+    <text class="st4" transform="translate(182 174.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 174.22)"><tspan x="0" y="0">Lead product designer for Imagine, Imagine Me, Video Remix, and AI Edits</tspan></text>
+    <text class="st4" transform="translate(182 188.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 188.22)"><tspan x="0" y="0">2 patents for gesture-based AI generation interfaces</tspan></text>
+    <text class="st8" transform="translate(30 146.22)"><tspan x="0" y="0">Meta</tspan></text>
+    <text class="st5" transform="translate(30 162.22)"><tspan x="0" y="0">2020 - Current</tspan></text>
+    <text class="st6" transform="translate(182 236.22)"><tspan x="0" y="0">Sta</tspan></text>
+    <path class="st11" d="M197.79,236.22v-4.58h-.75v-.72h.75v-.63c0-1.26.58-1.89,1.73-1.89.32,0,.69.05,1.1.16v.76c-.43-.13-.78-.2-1.04-.2-.32,0-.53.08-.65.23-.12.15-.17.43-.17.84v.74h2.41v-.63c0-1.26.58-1.89,1.73-1.89.32,0,.69.05,1.09.16v.76c-.43-.13-.77-.2-1.04-.2-.32,0-.53.08-.65.23s-.18.43-.18.84v.74h1.33v.72h-1.33v4.58h-.96v-4.58h-2.41v4.58h-.97Z"/>
+    <text class="st6" transform="translate(203.69 236.22)"><tspan x="0" y="0" xml:space="preserve"> Product Designer</tspan></text>
+    <text class="st4" transform="translate(182 250.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 250.22)"><tspan x="0" y="0">Lead designer for CompassX and Mobile-ﬁrst teams</tspan></text>
+    <text class="st4" transform="translate(182 264.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 264.22)"><tspan x="0" y="0">Built design systems for product, engineering and brand</tspan></text>
+    <text class="st4" transform="translate(182 278.22)"><tspan x="0" y="0">•</tspan></text>
+    <text class="st4" transform="translate(190.77 278.22)"><tspan x="0" y="0">Hackathon winner for mapping and gesture-based navigation</tspan></text>
+    <text class="st8" transform="translate(30 236.22)"><tspan x="0" y="0">Compass</tspan></text>
+    <text class="st5" transform="translate(30 252.22)"><tspan x="0" y="0">2019 - 2020</tspan></text>
+    <text class="st12" transform="translate(-159 172)"><tspan x="0" y="0">Lorem ipsum</tspan></text>
+  </g>
+  <g>
+    <circle class="st14" cx="171" cy="145" r="2"/>
+    <g class="st59">
+      <g>
+        <rect class="st14" width="612" height="1020"/>
+        <g class="st60">
+          <g class="st13">
+            <g>
+              <rect class="st14" x="164" y="138" width="14" height="14"/>
+              <g class="st56">
+                <g>
+                  <rect class="st14" x="169" y="143" width="4" height="4"/>
+                  <g class="st25">
+                    <rect class="st14" x="159" y="133" width="24" height="24"/>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st30">
+    <g class="st27">
+      <g class="st13">
+        <g class="st29">
+          <g class="st28">
+            <rect class="st14" x="159" y="222" width="24" height="24"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st26">
+    <line class="st2" x1="170.5" y1="151" x2="170.5" y2="227"/>
+    <line class="st2" x1="170.5" y1="241" x2="170.5" y2="317"/>
+    <line class="st2" x1="170.5" y1="329" x2="170.5" y2="433"/>
+    <line class="st2" x1="170.5" y1="445" x2="170.5" y2="522.03"/>
+  </g>
+</svg>
